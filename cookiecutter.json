@@ -1,0 +1,13 @@
+{
+  "user": null,
+  "repo": null,
+  "name": null,
+  "year": null,
+  "_copy_without_render": [
+      "rules/custom.smk",
+      "rules/nco.smk",
+      "rules/meta.smk",
+      "rules/pwrf.smk"
+]
+
+}

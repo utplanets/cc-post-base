@@ -1,0 +1,2 @@
+source_directory: "input"
+post: ["icemass.nc","surface.nc","t15.nc","lander.nc", "bylat.nc","byzone.nc","byzhang.nc"]
